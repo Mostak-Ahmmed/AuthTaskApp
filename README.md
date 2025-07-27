@@ -20,6 +20,8 @@ yarn start
 
 
 <img width="372" height="672" alt="image" src="https://github.com/user-attachments/assets/6a6c9011-5f9e-4d5f-a094-42a4c129b2ee" />
+<img width="353" height="687" alt="image" src="https://github.com/user-attachments/assets/957fb77a-3d97-409a-897d-ee6c07bba0f2" />
+
 
 
 <img width="358" height="676" alt="image" src="https://github.com/user-attachments/assets/d913b01c-761c-4b3f-aa77-a02d081b211b" />
